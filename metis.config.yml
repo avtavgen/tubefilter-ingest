@@ -1,0 +1,7 @@
+project_token: 0e51f91c2d646498fac13a79
+name: tubefilter-social-ingest
+jobs: 
+  - job_id: 54fd9f3a-7dfb-4405-9354-bfa8d6e2f54a
+    language: python
+    name: Main
+    entrypoint: "main.py"
